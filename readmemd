@@ -1,0 +1,50 @@
+# Sea Creature Facts Generator
+
+A simple, single-page web application that displays random interesting facts about sea creatures.
+
+## Description
+
+This project is a lightweight web application that presents users with fascinating facts about various sea creatures. It features a clean, ocean-themed interface and allows users to generate random facts about different marine animals with a single click.
+
+## Features
+
+- Random fact generation
+- Responsive design
+- Ocean-themed visual interface
+- Single-file implementation
+- 20 unique sea creature facts
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## Installation
+
+1. Download the `index.html` file
+2. Open it in any modern web browser (Chrome, Firefox, Safari, Edge)
+
+No additional installation or dependencies required!
+
+## Usage
+
+1. Open the application in your web browser
+2. Click the "Get New Fact" button to generate a random sea creature fact
+3. The fact card will display the creature name and an interesting fact about it
+
+## Project Structure
+
+The entire application is contained in a single `index.html` file which includes:
+- HTML structure
+- CSS styling (in the `<style>` tag)
+- JavaScript functionality (in the `<script>` tag)
+- Sea creature facts data
+
+## Contributing
+
+Feel free to fork this project and submit pull requests to contribute additional sea creature facts or enhance the functionality.
+
+## License
+
+This project is open source and available under the MIT License.
